@@ -1,0 +1,10 @@
+# Ignore sensitive keys
+.env
+
+# Ignore Virtual Environments
+venv/
+env/
+__pycache__/
+
+# Ignore Data files (optional, if you don't want to share the CSVs)
+*.csv
